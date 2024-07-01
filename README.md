@@ -70,6 +70,7 @@ Execute the commands below to build from the source.
    |   API Name  |            Connector             |
    | ----------- | -------------------------------- |
    | api_del_doc_with_credit_block | ballerinax/sap.s4hana.api_del_doc_with_credit_block |
+   | api_inbound_delivery_srv_0002 | ballerinax/sap.s4hana.api_inbound_delivery_srv_0002 |
 
 5. To run tests against different environment:
 
